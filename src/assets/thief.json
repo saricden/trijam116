@@ -1,0 +1,79 @@
+{ "frames": {
+   "0": {
+    "frame": { "x": 0, "y": 0, "w": 88, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 18, "w": 88, "h": 57 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "1": {
+    "frame": { "x": 88, "y": 0, "w": 88, "h": 88 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 88, "h": 88 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "2": {
+    "frame": { "x": 176, "y": 0, "w": 88, "h": 100 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 0, "w": 88, "h": 100 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "3": {
+    "frame": { "x": 264, "y": 0, "w": 88, "h": 88 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 12, "w": 88, "h": 88 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "4": {
+    "frame": { "x": 352, "y": 0, "w": 88, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 13, "w": 88, "h": 80 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "5": {
+    "frame": { "x": 440, "y": 0, "w": 88, "h": 100 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 0, "w": 88, "h": 100 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   },
+   "6": {
+    "frame": { "x": 528, "y": 0, "w": 88, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 6, "y": 13, "w": 88, "h": 80 },
+    "sourceSize": { "w": 100, "h": 100 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25",
+  "image": "thief.png",
+  "format": "RGBA8888",
+  "size": { "w": 616, "h": 100 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Thief-Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Thief-Run", "from": 1, "to": 6, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Legs", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arms", "opacity": 255, "blendMode": "normal" },
+   { "name": "Shoulders", "opacity": 255, "blendMode": "normal" },
+   { "name": "Head", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
